@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Volkhov:ital,wght@1,700&display=swap');
+.styling {
+  font-family: "Source Serif Pro", serif;
+}
+.headingtag {
+  font-family: 'Volkhov', serif;
+}
