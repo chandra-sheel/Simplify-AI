@@ -4,7 +4,7 @@
 
 #### To make this run in your system kinldy change the api keys in all those 6 functionality components separately
 
-#### Developed a project that utilizes AI to simplify various tasks. The project offers six different options for users, including a SQL command generator, programming language translator, time complexity finder, and more. The project is built using React JS, a popular JavaScript library for building user interfaces. With the help of AI, AI Buddy aims to make complex tasks more accessible and efficient for users.
+#### Developed a project that utilizes AI to simplify various tasks. The project offers six different options for users, including a SQL command generator, programming language translator, time complexity finder, and more. The project is built using React JS, a popular JavaScript library for building user interfaces. With the help of AI, Simplify AI aims to make complex tasks more accessible and efficient for users.
 
 ### Screenshots of my project are : 
 
