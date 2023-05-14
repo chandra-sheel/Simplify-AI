@@ -1,6 +1,6 @@
 # Simplify AI : Your Personal AI Assistant
 
-### Live Link : Available soon...
+### Live Link : https://chandra-simplifyai.netlify.app/
 
 #### To make this run in your system kinldy change the api keys in all those 6 functionality components separately
 
